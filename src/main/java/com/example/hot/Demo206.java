@@ -17,7 +17,7 @@ public class Demo206 {
 
     }
 
-    public class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
 
